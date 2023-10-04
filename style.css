@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #A3E1C7;
+}
+
+.barra-inicio {
+    width: 1920px;
+    height: 104px;
+    background-color: #6F3939;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: 'Irish Grover', cursive;
+    color: white;
+    margin-left: 175px;
+    margin-top: -70px;
+}
+
+.sobre{
+    font-size: 20px;
+    font-family: ;
+    color: white;
+    margin-top: -25px;
+    margin-left: 600px;
+}
+
+.chegar{
+    font-size: 20px;
+    color: white;
+    margin-top: -20px;
+    margin-left: 900px;
+}
+
+.ingressos{
+    font-size: 20px;
+    color: white;
+    margin-top: -20px;
+    margin-left: 1300px;
+}
+
+.mapa{
+    font-size: 20px;
+    color: white;
+    margin-top: -25px;
+    margin-left: 1600px;
+}
+
+.melhor{
+    font-family: 'Irish Grover', cursive;
+    font-size: 48px;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.sp{
+    font-family: 'Irish Grover', cursive;
+    font-size: 48px;
+    margin-top: 5px;
+    margin-left: 250px;
+}
+
+.animais{
+    color: #9D9A56;
+    font-family: 'Irish Grover', cursive;
+    font-size: 24px;
+    margin-top: 5px;
+    margin-left: 240px;
+}
+
+.barra-meio{
+    width: 1920px;
+    height: 104px;
+    color: #52947C;   
+}
