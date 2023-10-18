@@ -9,7 +9,7 @@ body {
 }
 
 .barra-inicio {
-    width: 1920px;
+    width: 1522px;
     height: 70px;
     background-color: #6F3939;
 }
@@ -18,37 +18,36 @@ h1 {
     font-size: 36px;
     font-family: 'Irish Grover', cursive;
     color: white;
-    margin-left: 175px;
+    margin-left: 70px;
     margin-top: -55px;
 }
 
 .sobre{
     font-size: 20px;
-    font-family: ;
     color: white;
     margin-top: -25px;
-    margin-left: 600px;
+    margin-left: 400px;
 }
 
 .chegar{
     font-size: 20px;
     color: white;
     margin-top: -20px;
-    margin-left: 900px;
+    margin-left: 650px;
 }
 
 .ingressos{
     font-size: 20px;
     color: white;
     margin-top: -20px;
-    margin-left: 1300px;
+    margin-left: 900px;
 }
 
 .mapa{
     font-size: 20px;
     color: white;
-    margin-top: -25px;
-    margin-left: 1600px;
+    margin-top: -20px;
+    margin-left: 1100px;
 }
 
 .melhor{
@@ -74,7 +73,7 @@ h1 {
 }
 
 .barra-meio{
-    width: 1920px;
+    width: 1522px;
     height: 80px;
     margin-top: -5px;
     background-color: #52947C;   
@@ -84,7 +83,7 @@ h1 {
 .instagram{
     width: 50px;
     height: 50px;
-    margin-left: 740px;
+    margin-left: 535px;
     margin-top: 15px;
 }
 
@@ -118,20 +117,20 @@ h1 {
 .panda{
     width: 900px;
     height: 500px;
-    margin-left: 1020px;
+    margin-left: 623px;
     margin-top: -325px;
 }
 
 .verde{
     background-color: #6AA48F;
-    width: 4000px;
-    height: 285px;
+    width: 1522px;
+    height: 280px;
 }
 
  .arara{
     width: 500px;
     height: 500px;
-    margin-top: -433px;
+    margin-top: -150px;
 } 
 
 .barra-laranja{
@@ -139,6 +138,14 @@ h1 {
     width: 240px;
     height: 80px;
     border-radius: 50px;
-    margin-top: -300px;
-    margin-left: 900px;
+    margin-top: -250px;
+    margin-left: 820px;
 } 
+
+.clique{
+    color: white;
+    margin-left: 860px;
+    margin-top: -145px;
+    font-family: 'Josefin Sans';
+    font-size: 24px;
+}
